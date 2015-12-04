@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6aeb7ec8-0b7f-4d9c-b8bd-687e2e6d6a37" name="Default" comment="From IDEA Hello">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="DELETED" beforePath="D:\jetbrainsWorkSpace\IDEAWorkSpace\out\production\IDEAWorkSpace\com\tuniu\code\day1\Init.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\jetbrainsWorkSpace\IDEAWorkSpace\src\com\tuniu\code\day1\Init.java" afterPath="$PROJECT_DIR$/src/com/tuniu/code/a/Init.java" />
     </list>
     <ignored path="IDEAWorkSpace.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -145,7 +143,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -446,7 +444,7 @@
       <option name="number" value="Default" />
       <updated>1449123268696</updated>
       <workItem from="1449123272187" duration="1424000" />
-      <workItem from="1449201316409" duration="1086000" />
+      <workItem from="1449201316409" duration="2753000" />
     </task>
     <task id="LOCAL-00001" summary="From IDEA">
       <created>1449123995416</created>
@@ -460,11 +458,17 @@
       <option name="project" value="LOCAL" />
       <updated>1449124070453</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="From IDEA Hello">
+      <created>1449202776495</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1449202776495</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2510000" />
+    <option name="totallyTimeSpent" value="4177000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1046" extended-state="0" />
