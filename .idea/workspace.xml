@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6aeb7ec8-0b7f-4d9c-b8bd-687e2e6d6a37" name="Default" comment="From IDEA Hello">
-      <change type="DELETED" beforePath="D:\jetbrainsWorkSpace\IDEAWorkSpace\out\production\IDEAWorkSpace\com\tuniu\code\day1\Init.class" afterPath="" />
+    <list default="true" id="6aeb7ec8-0b7f-4d9c-b8bd-687e2e6d6a37" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="IDEAWorkSpace.iws" />
@@ -444,7 +443,7 @@
       <option name="number" value="Default" />
       <updated>1449123268696</updated>
       <workItem from="1449123272187" duration="1424000" />
-      <workItem from="1449201316409" duration="2753000" />
+      <workItem from="1449201316409" duration="2809000" />
     </task>
     <task id="LOCAL-00001" summary="From IDEA">
       <created>1449123995416</created>
@@ -464,11 +463,17 @@
       <option name="project" value="LOCAL" />
       <updated>1449202776495</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="From IDEA Hello">
+      <created>1449209753926</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1449209753926</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4177000" />
+    <option name="totallyTimeSpent" value="4233000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1046" extended-state="0" />
