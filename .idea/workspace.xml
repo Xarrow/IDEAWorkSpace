@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6aeb7ec8-0b7f-4d9c-b8bd-687e2e6d6a37" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="IDEAWorkSpace.iws" />
@@ -25,15 +27,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Init.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Init.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/tuniu/code/a/Init.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31428573">
+            <state vertical-scroll-proportion="0.0">
               <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
                 <element signature="e#151#152#0" expanded="true" />
                 <element signature="e#198#199#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.026190476">
+              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -60,12 +72,21 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/tuniu/code/day1/Init.java" />
         <option value="$PROJECT_DIR$/src/com/tuniu/code/a/Init.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven" />
+        <option name="userSettingsFile" value="D:\maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="NamedScopeManager">
     <order />
@@ -443,7 +464,7 @@
       <option name="number" value="Default" />
       <updated>1449123268696</updated>
       <workItem from="1449123272187" duration="1424000" />
-      <workItem from="1449201316409" duration="2809000" />
+      <workItem from="1449201316409" duration="2972000" />
     </task>
     <task id="LOCAL-00001" summary="From IDEA">
       <created>1449123995416</created>
@@ -469,11 +490,17 @@
       <option name="project" value="LOCAL" />
       <updated>1449209753926</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="From IDEA Hello">
+      <created>1449209806354</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1449209806354</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4233000" />
+    <option name="totallyTimeSpent" value="4396000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1046" extended-state="0" />
@@ -535,12 +562,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/tuniu/code/a/Init.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31428573">
+        <state vertical-scroll-proportion="0.0">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
             <element signature="e#151#152#0" expanded="true" />
             <element signature="e#198#199#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.026190476">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
