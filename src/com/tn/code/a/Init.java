@@ -1,4 +1,4 @@
-package com.tuniu.code.a;
+package com.tn.code.a;
 
 /**
  * Created by zhangjian5 on 2015/12/3.

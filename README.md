@@ -1,2 +1,2 @@
 #IDEAWorkSpace
-* 你好
+*
