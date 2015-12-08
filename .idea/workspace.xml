@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3f24b1b-669d-4e1b-a0bd-36edff6e6c1c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Notes/Notes.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/tn/code/CommonUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IDEAWorkSpace.iml" afterPath="$PROJECT_DIR$/IDEAWorkSpace.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\jetbrainsWorkSpace\IDEAWorkSpace\src\main\java\com\tn\code\a\IPUtils.java" afterPath="$PROJECT_DIR$/src/main/java/com/tn/code/IPUtils.java" />
-      <change type="MOVED" beforePath="D:\jetbrainsWorkSpace\IDEAWorkSpace\src\main\java\com\tn\code\a\Init.java" afterPath="$PROJECT_DIR$/src/main/java/com/tn/code/Init.java" />
-      <change type="MOVED" beforePath="D:\jetbrainsWorkSpace\IDEAWorkSpace\src\main\java\com\tn\code\a\MD5Util.java" afterPath="$PROJECT_DIR$/src/main/java/com/tn/code/MD5Util.java" />
-      <change type="MOVED" beforePath="D:\jetbrainsWorkSpace\IDEAWorkSpace\src\main\java\com\tn\code\a\SignUtils.java" afterPath="$PROJECT_DIR$/src/main/java/com/tn/code/SignUtils.java" />
     </list>
     <ignored path="IDEAWorkSpace.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,27 +30,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CommonUtils.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tn/code/CommonUtils.java">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.43589744">
-              <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1789#1790#0" expanded="true" />
-                <element signature="e#1855#1856#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.13333334">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -96,10 +75,10 @@
         <option value="$PROJECT_DIR$/src/com/tn/code/a/MD5Util.java" />
         <option value="$PROJECT_DIR$/src/com/tn/code/a/IPUtils.java" />
         <option value="$PROJECT_DIR$/src/com/tn/code/a/SignUtils.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/tn/code/a/CommonUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tn/code/CommonUtils.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -701,7 +680,7 @@
       <workItem from="1449490284676" duration="60000" />
       <workItem from="1449540849823" duration="10966000" />
       <workItem from="1449562021835" duration="312000" />
-      <workItem from="1449562418136" duration="6210000" />
+      <workItem from="1449562418136" duration="6352000" />
     </task>
     <task id="LOCAL-00001" summary="turn project into maven">
       <created>1449562169504</created>
@@ -745,11 +724,17 @@
       <option name="project" value="LOCAL" />
       <updated>1449563314532</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add sign demo&#10;">
+      <created>1449576432068</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1449576432068</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19798000" />
+    <option name="totallyTimeSpent" value="19940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1064" extended-state="6" />
@@ -799,7 +784,8 @@
     <MESSAGE value="new update" />
     <MESSAGE value="turn project into maven" />
     <MESSAGE value="add img&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="add img&#10;" />
+    <MESSAGE value="add sign demo&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="add sign demo&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -945,17 +931,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tn/code/SignUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5897436">
@@ -990,7 +965,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.25641027">
           <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
           <folding />
         </state>
@@ -998,14 +973,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tn/code/CommonUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43589744">
-          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.71794873">
+          <caret line="54" column="37" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1789#1790#0" expanded="true" />
             <element signature="e#1855#1856#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13333334">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>
