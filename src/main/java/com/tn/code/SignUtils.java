@@ -1,4 +1,4 @@
-package com.tn.code.a;
+package com.tn.code;
 
 import java.util.*;
 import org.slf4j.Logger;
